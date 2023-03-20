@@ -7,8 +7,8 @@ define('URL', 'http://localhost/wejhtak/');
 
 // Configuration for: Database
 define('DB_TYPE', 'mysql');
-define('DB_HOST', '127.0.0.1');
-define('DB_NAME', 'mydb');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', 'sql313.epizy.com');
+define('DB_NAME', 'epiz_29261106_HIAST_BOT');
+define('DB_USER', 'epiz_29261106');
+define('DB_PASS', 'YzQBGUNhGbdM68W');
 define('CHARSET','utf8mb4');
